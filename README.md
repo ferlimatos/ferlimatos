@@ -5,3 +5,6 @@
 - 🌱 Estou aprendendo conceitos básicos sobre HTML, CSS e JavaScript. 
 - 😄 Pronomes: ela/dela
 <br>
+
+[![ferlimatos](https://github-readme-stats.vercel.app/api/top-langs/?username=ferlimatos&hide=html&layout=compact&theme=dark)](https://github.com/ferlimatos/)
+
