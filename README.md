@@ -4,5 +4,3 @@
 - 🎯 Tenho um background no design gráfico envolvendo criação de identidades visuais e postagens para redes sociais.
 - 🌱 Estou aprendendo conceitos básicos sobre HTML, CSS e JavaScript. 
 - 😄 Pronomes: ela/dela
-
-mailto:fernandamatos.design@gmail.com
