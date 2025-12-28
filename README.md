@@ -1,15 +1,13 @@
 # Fernanda Matos
 **`Designer de UI/UX e Estudante de Desenvolvimento Web & Mobile`**
 
-Sou Designer UI e estudante de Análise e Desenvolvimento de Sistemas (Estácio).
+Sou Designer UI e estudante de Análise e Desenvolvimento de Sistemas pela Estácio. Recentemente, iniciei um curso técnico em Desenvolvimento Web & Mobile na Escola do Futuro de Goiás.
 
-Atualmente, trabalho na criação e desenvolvimento de sites em WordPress com tecnologias low-code, focando em eficiência e UX.
+Atuo de forma autônoma desde 2021, desenvolvendo e criando sites em WordPress, utilizando tecnologias low-code, como o Elementor.
 
-Meu background em design gráfico (identidade visual e mídias sociais) garante que os projetos sejam esteticamente alinhados à marca.
+Estou em constante aprendizado e, no dia a dia, estudo e pratico HTML, CSS e JavaScript, com o objetivo de integrar cada vez mais o design à parte técnica e criar experiências digitais mais completas e sólidas.
 
-Em constante aprimoramento, iniciei recentemente um curso técnico em Desenvolvimento Web & Mobile (Escola do Futuro de Goiás) e estou ativamente aprendendo HTML, CSS e JavaScript. Meu objetivo é integrar essas habilidades técnicas ao design, criando experiências digitais robustas.
-
-Busco projetos que unam meu olhar de design à tecnologia, entregando resultados de alta performance e estética.
+Busco minha primeira oportunidade de estágio em Desenvolvimento Web, onde eu possa aplicar meus conhecimentos em lógica e interfaces para contribuir com a equipe e evoluir tecnicamente.
 
 ### O que estou aprendendo:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)<br><br>
