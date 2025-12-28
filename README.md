@@ -14,3 +14,8 @@ Busco minha primeira oportunidade de estágio em Desenvolvimento Web, onde eu po
 
 ### Ferramentas e Tecnologias:
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,github)](https://skillicons.dev)<br><br>
+
+### 📫 Contato:
+- Email: dev.fernandamatos@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/ferlimatos/](https://www.linkedin.com/in/ferlimatos/)
+- Portfólio (UX/UI): [https://www.behance.net/ferlimatos](https://www.behance.net/ferlimatos)
